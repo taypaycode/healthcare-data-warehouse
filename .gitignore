@@ -1,0 +1,25 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore log files
+*.log
+
+# Ignore CSV files (often used in ETL processes)
+*.csv
+
+# Ignore configuration files with sensitive information
+config.ini
+
+# Ignore SQL Server backup files
+*.bak
+
+# Ignore temporary files
+*.tmp
